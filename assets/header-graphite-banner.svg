@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dan Lawyer graphite workstation banner</title>
+  <desc id="desc">A charcoal brushed-metal banner with a classic workstation, silver lettering, and restrained technology-color accents.</desc>
+  <defs>
+    <linearGradient id="graphite" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1c1e"/><stop offset="0.5" stop-color="#2f2f32"/><stop offset="1" stop-color="#242426"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171719"/><stop offset="1" stop-color="#262a31"/></linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8e8e93"/><stop offset="0.5" stop-color="#f2f2f7"/><stop offset="1" stop-color="#d1d1d6"/></linearGradient>
+    <pattern id="brush" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M0 2H16M0 9H16M0 14H16" stroke="#f2f2f7" stroke-width="0.5" opacity="0.035"/></pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="2" y="2" width="1196" height="356" rx="28" fill="url(#graphite)" stroke="#8e8e93" stroke-width="2"/>
+  <rect x="14" y="14" width="1172" height="332" rx="20" fill="url(#brush)" stroke="#3a3a3d"/>
+  <path d="M38 300H1162" stroke="#8e8e93" opacity="0.35"/>
+  <g transform="translate(72 70)">
+    <rect width="270" height="178" rx="18" fill="#3a3a3d" stroke="url(#silver)" stroke-width="3"/>
+    <rect x="17" y="17" width="236" height="134" rx="10" fill="url(#screen)" stroke="#1c1c1e" stroke-width="3"/>
+    <path d="M42 55H78L94 38L116 72L140 48L159 63H210" fill="none" stroke="#3B82F6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+    <path d="M43 102H83M98 102H128M143 102H172M187 102H212" stroke="#d1d1d6" stroke-width="4" stroke-linecap="round" opacity="0.65"/>
+    <circle cx="224" cy="164" r="4" fill="#10B981"/>
+    <path d="M107 180V202M77 204H193" stroke="#8e8e93" stroke-width="10" stroke-linecap="round"/>
+    <rect x="28" y="222" width="214" height="18" rx="8" fill="#242426" stroke="#8e8e93"/>
+    <path d="M48 231H218" stroke="#d1d1d6" stroke-width="2" stroke-dasharray="7 5" opacity="0.5"/>
+  </g>
+  <g transform="translate(408 92)">
+    <text x="0" y="62" fill="#f2f2f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="1">DAN LAWYER</text>
+    <text x="2" y="112" fill="#d1d1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="27" font-weight="500" letter-spacing="4">SYSTEM WORKBENCH</text>
+    <path d="M2 142H650" stroke="url(#silver)" stroke-width="2" opacity="0.65"/>
+    <text x="2" y="184" fill="#8e8e93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="21" letter-spacing="1.5">LINUX · WINDOWS · AI · PC SYSTEMS</text>
+    <g transform="translate(3 218)"><rect width="54" height="5" rx="2.5" fill="#EE0000"/><rect x="68" width="54" height="5" rx="2.5" fill="#10B981"/><rect x="136" width="54" height="5" rx="2.5" fill="#F38020"/><rect x="204" width="54" height="5" rx="2.5" fill="#5391FE"/><rect x="272" width="54" height="5" rx="2.5" fill="#73000A"/></g>
+  </g>
+</svg>
