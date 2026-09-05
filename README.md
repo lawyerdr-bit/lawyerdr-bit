@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="assets/dan-lawyer-profile.png" alt="Dan Lawyer" width="260" />
+<img src="assets/89F5681B-4E2A-4CE7-8FBD-DE26B26C735C.png" alt="Dan Lawyer" width="260" />
 
 # Dan Lawyer
 
