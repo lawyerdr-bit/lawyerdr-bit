@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">South Carolina garnet banner</title>
+  <desc id="desc">An original garnet-and-black Gamecock country banner using abstract feather shapes and no official university marks.</desc>
+  <defs>
+    <linearGradient id="cloth" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1c1e"/><stop offset="0.52" stop-color="#2a2022"/><stop offset="1" stop-color="#242426"/></linearGradient>
+    <linearGradient id="garnet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3a3a3d"/><stop offset="0.5" stop-color="#73000A"/><stop offset="1" stop-color="#a61b29"/></linearGradient>
+    <pattern id="weave" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 3H12M3 0V12" stroke="#f2f2f7" stroke-width="0.4" opacity="0.035"/></pattern>
+  </defs>
+  <rect x="2" y="2" width="716" height="296" rx="18" fill="url(#cloth)" stroke="#8e8e93" stroke-width="2"/>
+  <rect x="12" y="12" width="696" height="276" rx="12" fill="url(#weave)" stroke="#3a3a3d"/>
+  <path d="M54 14V286" stroke="#73000A" stroke-width="3" opacity="0.9"/>
+  <circle cx="30" cy="70" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/><circle cx="30" cy="150" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/><circle cx="30" cy="230" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/>
+  <g transform="translate(102 48)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M145 103C112 54 61 41 13 67C52 77 75 101 86 137" stroke="#d1d1d6" stroke-width="10"/>
+    <path d="M148 104C128 53 137 19 176 4C168 42 176 70 199 95" stroke="#73000A" stroke-width="12"/>
+    <path d="M145 109C187 82 225 84 257 116C220 112 194 127 178 158" stroke="#a61b29" stroke-width="11"/>
+    <path d="M139 111C105 128 91 157 99 198C118 168 143 154 176 157" stroke="#8e8e93" stroke-width="9"/>
+    <circle cx="145" cy="107" r="24" fill="#242426" stroke="url(#garnet)" stroke-width="8"/><path d="M136 105L147 113L160 98" stroke="#f2f2f7" stroke-width="5"/>
+  </g>
+  <g transform="translate(370 91)">
+    <text fill="#f2f2f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="1.2">SOUTH CAROLINA</text>
+    <text x="2" y="42" fill="#d1d1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.6">GAMECOCK COUNTRY</text>
+    <path d="M2 66H308" stroke="#73000A" stroke-width="4"/>
+    <text x="2" y="101" fill="#8e8e93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="1.2">GARNET · BLACK · HOME</text>
+  </g>
+</svg>

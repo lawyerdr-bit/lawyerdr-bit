@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">Blue Ridge graphite flag</title>
+  <desc id="desc">A graphite flag treatment derived from the repository's Blue Ridge circuit-mountain asset, with muted blue accents.</desc>
+  <metadata>Derived from assets/blue-ridge-systems-consulting-logo.svg; the original asset remains unchanged.</metadata>
+  <defs>
+    <linearGradient id="cloth" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1c1e"/><stop offset="0.52" stop-color="#2f2f32"/><stop offset="1" stop-color="#242426"/></linearGradient>
+    <linearGradient id="ridge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8e8e93"/><stop offset="0.5" stop-color="#3B82F6"/><stop offset="1" stop-color="#d1d1d6"/></linearGradient>
+    <pattern id="weave" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 3H12M3 0V12" stroke="#f2f2f7" stroke-width="0.4" opacity="0.035"/></pattern>
+  </defs>
+  <rect x="2" y="2" width="716" height="296" rx="18" fill="url(#cloth)" stroke="#8e8e93" stroke-width="2"/>
+  <rect x="12" y="12" width="696" height="276" rx="12" fill="url(#weave)" stroke="#3a3a3d"/>
+  <path d="M54 14V286" stroke="#8e8e93" stroke-width="2" opacity="0.6"/>
+  <circle cx="30" cy="70" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/><circle cx="30" cy="150" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/><circle cx="30" cy="230" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/>
+  <g transform="translate(88 52)">
+    <path d="M0 131L74 58L118 99L171 28L263 131" fill="none" stroke="url(#ridge)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 158H265" stroke="#3B82F6" stroke-width="7" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="74" cy="58" r="6" fill="#d1d1d6"/><circle cx="171" cy="28" r="6" fill="#3B82F6"/><circle cx="263" cy="131" r="6" fill="#d1d1d6"/>
+  </g>
+  <g transform="translate(378 91)">
+    <text fill="#f2f2f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="1.5">BLUE RIDGE</text>
+    <text x="2" y="42" fill="#d1d1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1">MOUNTAINS · SYSTEMS · HOME</text>
+    <path d="M2 66H290" stroke="#3B82F6" stroke-width="3"/>
+    <text x="2" y="101" fill="#8e8e93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="1.2">PRACTICAL BY DESIGN</text>
+  </g>
+</svg>
