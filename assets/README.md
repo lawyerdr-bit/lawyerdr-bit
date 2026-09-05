@@ -2,11 +2,9 @@
 
 This directory contains the visual assets used by Dan Lawyer's GitHub profile.
 
-## Portrait still needed
+## Profile portrait
 
-Save Dan's approved profile portrait at exactly `assets/dan-lawyer-profile.png`.
-
-The root profile README is already wired to that path. Use a square or portrait-oriented PNG with Dan centered and enough space around his face for clean display at smaller sizes.
+Dan's approved profile portrait is stored at `assets/89F5681B-4E2A-4CE7-8FBD-DE26B26C735C.png` and is referenced directly by the root profile README.
 
 ## Generated graphite assets
 
