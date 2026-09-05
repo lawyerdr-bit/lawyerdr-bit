@@ -34,7 +34,7 @@
       <img src="assets/blue-ridge-graphite-flag.svg" alt="Blue Ridge graphite flag" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="assets/south-carolina-garnet-banner.svg" alt="South Carolina Gamecock country garnet banner" width="100%" />
+      <img src="assets/south-carolina-garnet-banner.png" alt="South Carolina Gamecocks garnet banner" width="100%" />
     </td>
   </tr>
 </table>
