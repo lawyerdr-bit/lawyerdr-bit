@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
   <title id="title">South Carolina garnet banner</title>
-  <desc id="desc">An original garnet-and-black Gamecock country banner using abstract feather shapes and no official university marks.</desc>
+  <desc id="desc">An original garnet, silver, and black athletic banner featuring a proud gamecock in side profile. It does not use official university marks.</desc>
   <defs>
     <linearGradient id="cloth" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1c1e"/><stop offset="0.52" stop-color="#2a2022"/><stop offset="1" stop-color="#242426"/></linearGradient>
     <linearGradient id="garnet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3a3a3d"/><stop offset="0.5" stop-color="#73000A"/><stop offset="1" stop-color="#a61b29"/></linearGradient>
@@ -10,17 +10,31 @@
   <rect x="12" y="12" width="696" height="276" rx="12" fill="url(#weave)" stroke="#3a3a3d"/>
   <path d="M54 14V286" stroke="#73000A" stroke-width="3" opacity="0.9"/>
   <circle cx="30" cy="70" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/><circle cx="30" cy="150" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/><circle cx="30" cy="230" r="8" fill="#1c1c1e" stroke="#d1d1d6" stroke-width="2"/>
-  <g transform="translate(102 48)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M145 103C112 54 61 41 13 67C52 77 75 101 86 137" stroke="#d1d1d6" stroke-width="10"/>
-    <path d="M148 104C128 53 137 19 176 4C168 42 176 70 199 95" stroke="#73000A" stroke-width="12"/>
-    <path d="M145 109C187 82 225 84 257 116C220 112 194 127 178 158" stroke="#a61b29" stroke-width="11"/>
-    <path d="M139 111C105 128 91 157 99 198C118 168 143 154 176 157" stroke="#8e8e93" stroke-width="9"/>
-    <circle cx="145" cy="107" r="24" fill="#242426" stroke="url(#garnet)" stroke-width="8"/><path d="M136 105L147 113L160 98" stroke="#f2f2f7" stroke-width="5"/>
+  <g stroke="#111113" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Proud gamecock bust: an original side-profile silhouette facing right. -->
+    <path d="M132 106C119 93 116 77 122 61C133 68 141 66 146 52C156 63 166 64 174 48C183 62 193 66 205 58C209 74 204 88 194 99" fill="#a61b29" stroke-width="6"/>
+    <path d="M143 96C165 84 192 88 211 102C222 110 230 120 236 131L286 139C296 141 298 148 288 153L245 166C240 181 230 192 215 199C222 219 236 237 257 250C231 251 208 243 191 228C190 247 196 265 207 280H101C94 254 98 229 111 207C123 188 139 176 141 157C130 139 130 116 143 96Z" fill="url(#garnet)" stroke-width="7"/>
+    <!-- Curved, two-part beak keeps the bird legible at small sizes. -->
+    <path d="M232 130C251 130 274 134 289 139C298 142 299 147 289 152L243 163C249 153 246 141 232 130Z" fill="#f2f2f7" stroke-width="5"/>
+    <path d="M245 153C260 155 276 154 289 152L251 170C243 174 236 169 240 162Z" fill="#8e8e93" stroke-width="5"/>
+    <!-- Wattle and jaw break up the silhouette like a mature fighting rooster. -->
+    <path d="M241 165C254 173 253 188 239 195C228 201 220 194 216 183C228 184 237 177 241 165Z" fill="#a61b29" stroke-width="5"/>
+    <path d="M214 199C207 211 199 222 191 228C179 216 167 207 151 201C176 201 197 199 214 188Z" fill="#4a1016" stroke-width="5"/>
+    <path d="M192 226C179 246 176 264 181 280H139C133 254 136 231 151 207C164 212 178 219 192 226Z" fill="#73000A" stroke-width="5"/>
+    <!-- Layered neck feathers. -->
+    <path d="M116 207C139 197 157 199 177 211L157 226L176 237L153 251L171 264L151 280H101C95 255 99 230 116 207Z" fill="#242426" stroke-width="5"/>
+    <path d="M124 207C140 205 151 208 163 216M116 228C132 225 144 228 155 235M110 250C126 247 139 251 149 259" fill="none" stroke="#d1d1d6" stroke-width="5"/>
+    <path d="M154 111C169 101 188 101 204 111" fill="none" stroke="#d1d1d6" stroke-width="5" opacity="0.7"/>
+    <!-- High-contrast eye and brow create the proud, alert expression. -->
+    <path d="M181 116C193 109 205 110 214 117" fill="none" stroke="#111113" stroke-width="6"/>
+    <circle cx="197" cy="124" r="9" fill="#f2f2f7" stroke-width="5"/>
+    <circle cx="199" cy="124" r="3.5" fill="#111113" stroke="none"/>
+    <circle cx="200" cy="122" r="1.2" fill="#f2f2f7" stroke="none"/>
   </g>
-  <g transform="translate(370 91)">
+  <g transform="translate(374 96)">
     <text fill="#f2f2f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="1.2">SOUTH CAROLINA</text>
-    <text x="2" y="42" fill="#d1d1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.6">GAMECOCK COUNTRY</text>
-    <path d="M2 66H308" stroke="#73000A" stroke-width="4"/>
-    <text x="2" y="101" fill="#8e8e93" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="1.2">GARNET · BLACK · HOME</text>
+    <text x="2" y="44" fill="#d1d1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="1.6">GAMECOCK COUNTRY</text>
+    <path d="M2 69H306" stroke="#73000A" stroke-width="4"/>
+    <path d="M2 84H188" stroke="#8e8e93" stroke-width="1" opacity="0.45"/>
   </g>
 </svg>
