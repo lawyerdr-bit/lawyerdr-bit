@@ -81,18 +81,17 @@ PC gaming is also a hands-on systems lab. The [gaming PC section](gaming-pc/) co
 
 The [containers section](containers/) is for container build notes, image usage, registry workflows, and reproducible run examples.
 
-Dan currently publishes these private GHCR packages from his systems toolkit:
+Featured public GitHub Container Registry images, maintained by
+[`owensreo`](https://github.com/owensreo):
 
-| Package | Visibility |
-|---|---|
-| [`github-actions-runner`](https://github.com/users/lawyerdr-bit/packages/container/package/github-actions-runner) | Private |
-| [`ray-tools`](https://github.com/users/lawyerdr-bit/packages/container/package/ray-tools) | Private |
-| [`reo-ai`](https://github.com/users/lawyerdr-bit/packages/container/package/reo-ai) | Private |
-| [`reo-tools`](https://github.com/users/lawyerdr-bit/packages/container/package/reo-tools) | Private |
+| Package | Visibility | Source repository |
+|---|---|---|
+| [`reo-ai`](https://github.com/users/owensreo/packages/container/package/reo-ai) | Public | [`owensreo/tailscale-policy`](https://github.com/owensreo/tailscale-policy) |
+| [`reo-tools`](https://github.com/users/owensreo/packages/container/package/reo-tools) | Public | [`owensreo/tailscale-policy`](https://github.com/owensreo/tailscale-policy) |
+| [`ray-weather`](https://github.com/users/owensreo/packages/container/package/ray-weather) | Public | [`owensreo/tailscale-policy`](https://github.com/owensreo/tailscale-policy) |
+| [`ray-cloudflare-speedtest`](https://github.com/users/owensreo/packages/container/package/ray-cloudflare-speedtest) | Public | [`owensreo/tailscale-policy`](https://github.com/owensreo/tailscale-policy) |
 
-These images require GitHub Packages access. Authenticate with a token that has
-permission to read the relevant private package; do not commit tokens or
-credentials to this repository.
+These images can be pulled from GHCR without private-package credentials.
 
 ## What Lives Here
 
