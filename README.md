@@ -43,7 +43,7 @@
 
 I'm building this GitHub as a home for the systems, scripts, containers, and lab work that help me keep learning and growing in IT.
 
-My current focus includes Red Hat Enterprise Linux, Rocky Linux, Windows 11, Windows Server 2025, PowerShell, Cloudflare, Tailscale, AI tools, and PC gaming systems.
+My current focus includes Red Hat Enterprise Linux, Rocky Linux, Windows 11, Windows Server 2025, PowerShell, Cloudflare, Tailscale, AI tools, PC gaming systems, and DIY guitar-pedal electronics.
 
 This is where I document what I'm learning, keep useful tools close at hand, and organize the projects that help me stay hands-on with technology.
 
@@ -55,6 +55,7 @@ This is where I document what I'm learning, keep useful tools close at hand, and
 | **Windows systems** | Windows 11, Windows Server 2025, PowerShell, maintenance, and repeatable setup |
 | **Connected lab** | Tailscale networking, Cloudflare services, remote access, and practical security |
 | **Compute and AI** | Local AI tools, containers, GHCR workflows, and gaming PC hardware |
+| **Pedal electronics** | DIY guitar effects, circuit design, and hands-on electronics learning |
 
 ## Linux
 
