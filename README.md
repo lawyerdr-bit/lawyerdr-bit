@@ -82,14 +82,14 @@ PC gaming is also a hands-on systems lab. The [gaming PC section](gaming-pc/) co
 The [containers section](containers/) is for container build notes, image usage, registry workflows, and reproducible run examples.
 
 Featured public GitHub Container Registry images, maintained by
-[`owensreo`](https://github.com/owensreo):
+[`Blue Ridge Systems Consulting`](https://github.com/Blue-Ridge-Systems-Consulting):
 
 | Package | Visibility | Source repository |
 |---|---|---|
-| [`reo-ai`](https://github.com/users/owensreo/packages/container/package/reo-ai) | Public | [`owensreo/tailscale-policy`](https://github.com/owensreo/tailscale-policy) |
-| [`reo-tools`](https://github.com/users/owensreo/packages/container/package/reo-tools) | Public | [`owensreo/tailscale-policy`](https://github.com/owensreo/tailscale-policy) |
-| [`ray-weather`](https://github.com/users/owensreo/packages/container/package/ray-weather) | Public | [`owensreo/tailscale-policy`](https://github.com/owensreo/tailscale-policy) |
-| [`ray-cloudflare-speedtest`](https://github.com/users/owensreo/packages/container/package/ray-cloudflare-speedtest) | Public | [`owensreo/tailscale-policy`](https://github.com/owensreo/tailscale-policy) |
+| [`reo-ai`](https://github.com/orgs/Blue-Ridge-Systems-Consulting/packages/container/package/reo-ai) | Public | [`Blue-Ridge-Systems-Consulting/blue-ridge-container-images`](https://github.com/Blue-Ridge-Systems-Consulting/blue-ridge-container-images) |
+| [`reo-tools`](https://github.com/orgs/Blue-Ridge-Systems-Consulting/packages/container/package/reo-tools) | Public | [`Blue-Ridge-Systems-Consulting/blue-ridge-container-images`](https://github.com/Blue-Ridge-Systems-Consulting/blue-ridge-container-images) |
+| [`olmoai`](https://github.com/orgs/Blue-Ridge-Systems-Consulting/packages/container/package/olmoai) | Public | [`Blue-Ridge-Systems-Consulting/blue-ridge-container-images`](https://github.com/Blue-Ridge-Systems-Consulting/blue-ridge-container-images) |
+| [`apertusai`](https://github.com/orgs/Blue-Ridge-Systems-Consulting/packages/container/package/apertusai) | Public | [`Blue-Ridge-Systems-Consulting/blue-ridge-container-images`](https://github.com/Blue-Ridge-Systems-Consulting/blue-ridge-container-images) |
 
 These images can be pulled from GHCR without private-package credentials.
 
